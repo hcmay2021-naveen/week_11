@@ -1,0 +1,43 @@
+.navbar{
+    background-color: #FFFFFF;
+}
+.navbar a{
+    text-decoration: none;
+    color: #000000;
+}
+.navbar a:hover{
+    color: #6495F5;
+}
+.contact{
+    background-color: #6495F5;
+    height: 85px;
+    color: #FFFFFF;
+    font-weight: bolder;
+
+}
+.contact h1{
+    padding-left: 251px;
+}
+.bar{
+    background-color: #AED6F1;
+}
+.map{
+    background-color: #FFFFFF;
+}
+a{
+    text-decoration: none;
+}
+.link{
+    color: #cd4c75;
+}
+.link:hover{
+    color: aquamarine;
+}
+.mess{
+    background-color: #249FFF;
+    color: #FFFFFF;
+}
+.start{
+    color: #249FFF;
+    border: 1px solid #249FFFs;
+}
